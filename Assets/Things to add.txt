@@ -1,0 +1,16 @@
+- Camera verder van muur af
+- Jump minder floaty
+- Landen door je knieën effect
+- Gun sway
+- Gun muzzle flash
+- Gun impact effect
+- Slow motion?
+- Building Tiles
+- Flying enemies
+- MUSIC (DOOM PENTAKILL)
+- Effecten
+- Jump Power
+- Way to gain altitude
+- Ranged Enemies
+- UI scaling
+- Animation (Falling -> Falling Flat Impact -> (new anim controller) Standing up -> Gun Run -> Shooting)
